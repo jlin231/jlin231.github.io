@@ -4035,7 +4035,7 @@ body.is-preload #sidebar nav ul li {
 
 }
 
-.profPic{
-	width: 100%; 
-	
+.profPicture{
+	width: 90%; 
+	border-radius: 50%;
 }
